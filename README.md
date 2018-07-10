@@ -1,5 +1,4 @@
-# Revisionsj2
-## CSS Animation drill
+# CSS Animation drill
 
 duration: 1 day
 team: false
