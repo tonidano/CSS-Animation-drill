@@ -1,8 +1,8 @@
 # Revisionsj2
 ## CSS Animation drill
 
-# duration: 1 day
-# team: false
+duration: 1 day
+team: false
 
 [To see the animation it's over there](https://tonidano.github.io/Revisionsj2/) 
  
